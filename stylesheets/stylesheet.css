@@ -7,15 +7,27 @@
 #pink-id {
     background-color: pink;
 }
-.span{
+span{
     padding-left: 5px;
     padding-right: 5px;
     border-top: 2px solid black;
     border-bottom: 4px solid gray;
 }
-.p{
+p{
     border-style: ridge;
     border-color: lightgreen;
     border-width: 10px;
     margin: 5px;
+}
+h1{
+    font-family: Roboto, "sans-serif";
+    text-align: center;
+    background-color: gray;
+    margin: 0px;
+}
+
+body{
+    font-family: serif;
+    color: crimson;
+    margin: 0px;
 }
