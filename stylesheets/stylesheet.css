@@ -1,6 +1,9 @@
 .heading {
     color: red;
 }
-.paragraph{
+.paragraph {
     background-color: beige;
+}
+#pink-id {
+    background-color: pink;
 }
