@@ -7,3 +7,15 @@
 #pink-id {
     background-color: pink;
 }
+.span{
+    padding-left: 5px;
+    padding-right: 5px;
+    border-top: 2px solid black;
+    border-bottom: 4px solid gray;
+}
+.p{
+    border-style: ridge;
+    border-color: lightgreen;
+    border-width: 10px;
+    margin: 5px;
+}
